@@ -1,0 +1,49 @@
+	body{
+background-color: #80ffd4;
+font-family: Athelas Regular;
+color: #000066;
+}
+
+#navigation {
+padding: 0;
+margin: 0;
+}
+
+#navigation li {
+display: inline;
+float: left;
+}
+
+#navigation a, #navigation a:visited {
+display: block;
+width: 200px;
+border:1px solid #000066;
+font-size: 0.8em;
+text-align: center;
+text-decoration: none;
+}
+
+#pic1 img {
+		box-shadow:8px 8px 10px #aaa;
+float: left;
+}
+
+#pic2 img {
+border:10px double #00284d;
+float: right;
+}
+
+#pic3 img {
+		box-shadow:8px 8px 10px #aaa;
+float: left;
+}	
+
+#pic4 img {
+		box-shadow:8px 8px 10px #aaa;
+float: right;
+}
+
+#pic5 img {
+		box-shadow:8px 8px 10px #aaa;
+float: left;
+}
